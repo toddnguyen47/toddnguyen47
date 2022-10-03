@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toddnguyen47
-- 👀 I’m interested in Python, Java, React, and front-end development!
+- 👀 I’m interested in Go, Python, Java, React, and front-end development!
 - 🌱 I’m currently learning React and Lit
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me at todd.nguyen47@gmail.com! Or message me on Discord at `ZxScepter#5563` 😁
